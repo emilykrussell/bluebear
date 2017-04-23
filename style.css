@@ -1,0 +1,29 @@
+/*
+ Theme Name:   Counter Theme Child
+ Theme URI:    http://example.com/blue-bear-theme-child/
+ Description:  Counter Child Theme - Counter
+ Author:       emily russell
+ Author URI:   http://example.com
+ Template:     counter
+ Version:      1.0.0
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  counter-theme-child
+*/
+
+
+@import url("../counter/style.css");
+
+/* background image */
+.panel-background {
+    background: url("img/longtail-two.jpg") no-repeat scroll center / cover  rgba(0,0,0,0);
+}
+
+/* change text color on image panel */
+
+.panel-content p {
+	color: white;
+}
+
+.panel-content h2 {
+	color: white;
+}
