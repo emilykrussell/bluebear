@@ -13,19 +13,19 @@
 
 @import url("../counter/style.css");
 
-/* background image */
+/* home page background color */
 .panel-background {
-    background: url("img/longtail-two.jpg") no-repeat scroll center / cover  rgba(0,0,0,0);
+    background-color: #bac8d4;
 }
 
 /* change text color on image panel */
 
 .panel-content p {
-	color: white;
+	color: #555;
 }
 
 .panel-content h2 {
-	color: white;
+	color: #555;
 }
 
 /* font */
