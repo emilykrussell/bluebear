@@ -27,3 +27,64 @@
 .panel-content h2 {
 	color: white;
 }
+
+/* font */
+
+body {
+	font-family: 'Nobile', sans-serif;
+}
+
+.main-navigation a {
+	font-family: 'Nobile', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: 'Nobile', sans-serif;
+}
+
+blockquote,
+q {
+	font-family: 'Nobile', sans-serif;
+}
+
+cite {
+	font-family: 'Nobile', sans-serif;
+}
+
+/*** end font ***/
+
+/*** links color update ***/
+
+.main-navigation a:hover,
+.main-navigation a:focus,
+.main-navigation a:active {
+	color: #158af7;
+}
+
+a {
+	color: #158af7;
+}
+
+a:hover,
+a:active {
+	color: #158af7;
+}
+
+a:focus {
+	color: #158af7;
+}
+
+/** end links color **/
+
+
+
+
+
+
+
+

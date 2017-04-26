@@ -15,6 +15,8 @@
 
 		<div class="site-info">
 		<p>Blue Bear Ice Cream, LLC</p>
+		<p>Rolling around the Mitten since 2017</p>
+		<p><a href="mailto:info@bluebearicecream.com">info@bluebearicecream.com</a></p>
 
 		</div><!-- .site-info -->
 

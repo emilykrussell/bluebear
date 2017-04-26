@@ -12,6 +12,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="profile" href="http://gmpg.org/xfn/11">
 <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
+<!-- new font --> 
+<link href="https://fonts.googleapis.com/css?family=Nobile" rel="stylesheet">
 <?php wp_head(); ?>
 </head>
 
@@ -24,8 +26,7 @@
 	<header id="masthead" class="site-header" role="banner">
 		<div class="site-header-wrap">
 			<div class="site-branding">
-				<?php the_custom_logo(); ?>
-				<?php counter_site_title_tagline(); ?>
+				<h1>Blue Bear Ice Cream</h1>
 			</div><!-- .site-branding -->
 		</div><!-- .site-header-wrap -->
 
