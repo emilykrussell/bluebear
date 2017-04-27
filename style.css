@@ -15,7 +15,7 @@
 
 /* home page background color */
 .panel-background {
-    background-color: #bac8d4;
+    background-color: #b5d6f2;
 }
 
 /* change text color on image panel */
@@ -63,20 +63,20 @@ cite {
 .main-navigation a:hover,
 .main-navigation a:focus,
 .main-navigation a:active {
-	color: #158af7;
+	color: #b5d6f2;
 }
 
 a {
-	color: #158af7;
+	color: #b5d6f2;
 }
 
 a:hover,
 a:active {
-	color: #158af7;
+	color: #b5d6f2;
 }
 
 a:focus {
-	color: #158af7;
+	color: #b5d6f2;
 }
 
 /** end links color **/
