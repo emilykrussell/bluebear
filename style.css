@@ -15,17 +15,17 @@
 
 /* home page background color */
 .panel-background {
-    background-color: #b5d6f2;
+    background-color: #093966;
 }
 
 /* change text color on image panel */
 
 .panel-content p {
-	color: #555;
+	color: #f7fbff;
 }
 
 .panel-content h2 {
-	color: #555;
+	color: #f7fbff;
 }
 
 /* font */
@@ -63,25 +63,30 @@ cite {
 .main-navigation a:hover,
 .main-navigation a:focus,
 .main-navigation a:active {
-	color: #b5d6f2;
+	color: #093966;
 }
 
 a {
-	color: #b5d6f2;
+	color: #093966;
 }
 
 a:hover,
 a:active {
-	color: #b5d6f2;
+	color: #093966;
 }
 
 a:focus {
-	color: #b5d6f2;
+	color: #093966;
 }
 
 /** end links color **/
-
-
+.site-header-wrap {
+	background-image: url("blue-bear-logo-alt-2.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 75%;
+	padding: 200px;
+}
 
 
 

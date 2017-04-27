@@ -26,7 +26,6 @@
 	<header id="masthead" class="site-header" role="banner">
 		<div class="site-header-wrap">
 			<div class="site-branding">
-				<h1>Blue Bear Ice Cream</h1>
 			</div><!-- .site-branding -->
 		</div><!-- .site-header-wrap -->
 
