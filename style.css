@@ -16,6 +16,7 @@
 /* home page background color */
 .panel-background {
     background-color: #093966;
+    padding-bottom: 200px;
 }
 
 /* change text color on image panel */
@@ -80,13 +81,38 @@ a:focus {
 }
 
 /** end links color **/
-.site-header-wrap {
-	background-image: url("blue-bear-logo-alt-2.png");
-	background-repeat: no-repeat;
-	background-position: center;
-	background-size: 75%;
-	padding: 200px;
+
+/* parameters for parallax scroll fo BB logo */
+
+body , html {
+	height: 100%;
 }
+
+/* BB logo hero area */
+
+.site-header-wrap {
+	background-image: url("blue-bear-logo-alt-3.png");
+	height: 100%;
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 200px;
+	max-width: 1440px;
+}
+
+
+/* end hero area */
+
+/* footer padding */
+footer .site-info {
+	padding-top: 100px;
+}
+
+
+
+
+
+
 
 
 
