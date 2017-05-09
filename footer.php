@@ -14,7 +14,7 @@
 		<?php get_template_part( 'template-parts/widgets-footer' ); ?>
 
 		<div class="site-info">
-		<p>Blue Bear Ice Cream, LLC  |  
+		<p>Blue Bear Ice Cream  |  
 		Rolling around the Mitten since 2017  |  
 		<a href="mailto:info@bluebearicecream.com">info@bluebearicecream.com</a></p>
 
