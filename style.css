@@ -92,14 +92,12 @@ body , html {
 
 .site-header-wrap {
 	background-image: url("blue-bear-logo-alt-2.png");
-	height: 100%;
-	background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
+    background-size: contain;
     padding: 200px;
-	max-width: 1440px;
+	max-width: 100%;
 }
-
 
 /* end hero area */
 
