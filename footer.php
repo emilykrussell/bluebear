@@ -14,11 +14,9 @@
 		<?php get_template_part( 'template-parts/widgets-footer' ); ?>
 
 		<div class="site-info">
-		<ul>
-		<li>Blue Bear Ice Cream</li>
-		<li>Rolling around the Mitten since 2017</li>  
-		<li><a href="mailto:info@bluebearicecream.com">info@bluebearicecream.com</a></li>
-		</ul>
+		<p>Blue Bear Ice Cream</p>
+		<p>Rolling around the Mitten since 2017</p>  
+		<p><a href="mailto:info@bluebearicecream.com">info@bluebearicecream.com</a></p>
 		</div><!-- .site-info -->
 
 	</footer><!-- #colophon -->
